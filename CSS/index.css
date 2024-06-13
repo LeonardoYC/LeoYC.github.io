@@ -1,0 +1,33 @@
+body{
+
+	background-image: url("../IMG/fondo.jpg");
+
+	text-align: center;
+	font-family: arial, "courier new", impact;
+}
+
+
+
+#izquierda{
+float: left;
+padding: 10px;
+margin-left: 460px; 
+}
+
+#derecha{
+float: left;
+padding: 10px;
+margin-left: -370px; 
+}
+
+#boton{
+width:70px ;
+border: 1px;
+
+}
+
+#texto{
+position: absolute;
+padding-top: 25%;
+padding-left: 49%;
+}
